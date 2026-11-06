@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "PACMAN 3D",
+      "request": "launch",
+      "mainClass": "com.pacman3d.Main",
+      "projectName": "pacman-3d",
+      "vmArgs": "-Xmx1g -Dsun.java2d.opengl=false"
+    }
+  ]
+}
